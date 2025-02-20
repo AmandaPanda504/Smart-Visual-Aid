@@ -29,14 +29,19 @@
 - Bluetooth Connectivity
 - SSH Connection
 
------------------------------------------------------------------------------
+  ----------------------------------------------------------------------------
+ **Raspberry Pi and Camera Module Circuit**
+  ![IMG_0906](https://github.com/user-attachments/assets/9997e37b-d221-490f-9df2-d8bbf202554e)
+
+
+-------------------------------------------------------------------------------
 **Raspberry Pico W Circuit**
 
 ![IMG_1772](https://github.com/user-attachments/assets/73c709ba-fe1b-4c11-9d45-f0be3db99005)
 
 
 ------------------------------------------------------------------------------
-**Google Voice Screenshot from Initial Stae IoT Correspondence**
+**Google Voice Screenshot from Initial Stae IoT Correspondence (Panic Button)**
 
 
 ![Screenshot (291)](https://github.com/user-attachments/assets/9e7c19d1-a734-435a-900f-9c98806d681e)
