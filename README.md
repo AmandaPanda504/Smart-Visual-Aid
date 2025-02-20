@@ -1,9 +1,11 @@
 
 **Objective**: This project was developed in order to give users with visual impairments gain better awareness of their surroundings. This project has two main functionalities. 
 
-**Functionalities**: 
-  -capture real time images and produce audio feedback
-                 A panic button feature, which once, will alert the user's caretaker
+**Functionalities**:
+- capture real time images and produce audio feedback
+- A panic button feature to alert the user's caretaker
+
+                 
 
 **Material/Apparatus**:
 
