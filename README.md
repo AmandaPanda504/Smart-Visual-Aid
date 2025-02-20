@@ -1,0 +1,1 @@
+This project was developed in order to give users with visual impairments. This project has two main functionalities. The first is to capture a real time image of what is in front of the user and produce audio feedback. The second functionality is a panic button feature. Once this button is pressed an alert will be send to the user's caretaker. 
