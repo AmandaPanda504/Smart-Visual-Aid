@@ -29,7 +29,12 @@
 - Bluetooth Connectivity
 - SSH Connection
 
-  ----------------------------------------------------------------------------
+---------------------------------------------------
+**Live Demo**
+
+
+
+----------------------------------------------------------------------------
  **Raspberry Pi and Camera Module Circuit**
   ![IMG_0906](https://github.com/user-attachments/assets/9997e37b-d221-490f-9df2-d8bbf202554e)
 
