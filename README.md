@@ -36,6 +36,10 @@
 
 
 
+https://github.com/user-attachments/assets/d8fb60fd-5cc4-479f-a885-e712c2924644
+
+
+
 ----------------------------------------------------------------------------
  **Raspberry Pi and Camera Module Circuit**
   ![IMG_0906](https://github.com/user-attachments/assets/9997e37b-d221-490f-9df2-d8bbf202554e)
